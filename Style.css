@@ -1,0 +1,19 @@
+.shadow:hover{
+    box-shadow:5px 5px 3px rgb(117, 110, 110);
+    width:200px;
+    transition: .5s;
+    border-radius: 10px;
+}
+.shadow1:hover{
+    box-shadow:5px 5px 3px rgb(117, 110, 110);
+    transition: .5s;
+    border-radius: 10px;
+
+}
+
+.shadow{
+    padding: 10px;
+}
+.shadow1{
+    padding: 10px;
+}
